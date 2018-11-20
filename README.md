@@ -1,7 +1,7 @@
 # An Introduction To AI and Machine Learning Industry
 "What is AI?". For starter let's assume AI is just a tool to benefit human kind. But human kind is not perfect and humands do mistakes. So if AI aka artificial intelligence continues to mimic human intelligence then will it be free to do the same silly mistakes as the humans do? Actually this thought coins another term the "rationality". Rationality means to do the right thing given what it knows. So this makes two types of AI. One to mimic human capabilities as they are and another one to make only the right choices ignoring human flaws. The second approach is more popular than the first as in our day do day life we all try to make as less mistake as possible. But from time to time the definition of intelligent system changes and after reaching a certain milestone we try to achieve much higher picks. Take for example a program named Eliza. Eliza emulates a Rogerian psychotherapist. He is programmed with a preset of texts and some common text patterns.  
 
-![](img/eliza.png)
+![](img/eliza.PNG)
 
 Then we know all about the story of Garry Kasparov and deep blue. World chess grand master Garry Kasparov was first ever was beat in an intellectual decision making on chess board. In 1997, New York City human was defeated by a mere computer program. This was a pretty big event and we officially started to believe machines can be intelligent too. 
 
